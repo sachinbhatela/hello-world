@@ -1,5 +1,3 @@
- Hello, Welcome to Valaxy Technologies
- Deploying on Kubernetes 
- One last test
-
-Peloyment through Ansible
+ Hello, Thales
+ Deploying of War through Ansible 
+ 
