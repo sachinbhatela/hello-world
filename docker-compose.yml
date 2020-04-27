@@ -1,0 +1,4 @@
+version: '3'
+services:
+  webapp1:
+    image: tomcat2gaurav
