@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:lts
+From tomcat
 
 # Maintainer 
 MAINTAINER "sachinsharm_a@hcl.com" 
